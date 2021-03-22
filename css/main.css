@@ -1,0 +1,27 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#timeSlider {
+  position: absolute;
+  left: 100px;
+  right: 100px;
+  bottom: 30px;
+}
+
+#infoDiv {
+  height: 200px;
+  padding: 10px;
+  width: 280px;
+}
+
+#infoDiv span {
+  color: #f9c653;
+  font-size: 12pt;
+  font-weight: bolder;
+}
